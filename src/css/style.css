@@ -74,3 +74,9 @@ body{
 .faq-item.active .answer {
     display: block;
 }
+
+@media (min-width: 768px){
+    body{
+        background-image: url(../images/background-pattern-desktop.svg);
+    }
+}
